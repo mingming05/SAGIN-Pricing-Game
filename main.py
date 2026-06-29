@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.optimize import minimize_scalar
 
-# 设置绘图参数，符合IEEE期刊排版规范
+# 设置绘图参数
 plt.rcParams.update({'font.size': 12, 'axes.labelsize': 14,
                      'legend.fontsize': 12, 'lines.linewidth': 2})
 
